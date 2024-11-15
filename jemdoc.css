@@ -5,7 +5,7 @@ html {
 }
 body {
     font-family: Arial, sans-serif;
-    width: 700px;
+    width: 800px;
     background-color: #ffffff;
     margin: 30px auto;
     padding: 10px 30px;
@@ -89,7 +89,7 @@ body {
 
 .biography p {
     text-align: justify;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .news {
@@ -185,6 +185,7 @@ h3 {
     text-align: right;
 }
 .award-content {
+    font-size: 12px;
     display: flex;
     flex-direction: column;
     gap: 5px;
